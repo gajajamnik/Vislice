@@ -1,6 +1,5 @@
 # Vislice
 
-Ivan Vidav
-Josip Plemelj
-Jurij Vega
-Anton Suhadolc
+Projekt pri predmetu uvod v programiranje
+
+Napisali bomo program, ki nas bo vodil skozi preprosto igro vislic.
