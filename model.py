@@ -47,7 +47,7 @@ class Igra:
 
     def ugibaj(self, ugibana_crka):
         ugibana_crka = ugibana_crka.upper()
-        if ugibana_crka in self.crke():
+        if ugibana_crka in self.crke:
             return PONOVLJENA_CRKA
         else:
             self.crke.append(ugibana_crka)
